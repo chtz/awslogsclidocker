@@ -16,5 +16,5 @@ AWS credentials configured:
 
 ## Sample: Watch a CloudWatch log group (e.g. mygroup)
 
-	awslogs mygroup --watch
+	awslogs get mygroup --watch
 
